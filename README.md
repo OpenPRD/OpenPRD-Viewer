@@ -1,6 +1,6 @@
 # Note this is a place holder for the future application. 
 
-Contributions to this project are welcome!
+Contributions to this project are welcomed. Have any ideas and would like to get this project off the ground, please reach out!
 
 # OpenPRD File Viewer
 
