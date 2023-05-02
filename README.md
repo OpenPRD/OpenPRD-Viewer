@@ -1,4 +1,6 @@
-# Note this is a place holder for future the application. Contributions to this project are welcome!
+# Note this is a place holder for the future application. 
+
+Contributions to this project are welcome!
 
 # OpenPRD File Viewer
 
