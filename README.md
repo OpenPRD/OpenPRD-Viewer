@@ -1,3 +1,5 @@
+# Note this is a place holder for future the application. Contributions to this project are welcome!
+
 # OpenPRD File Viewer
 
 This is a application that allows you to view Open Portable Resume Document (OpenPRD) files and see both the resume and the structured data.
